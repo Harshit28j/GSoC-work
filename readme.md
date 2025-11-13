@@ -1,5 +1,8 @@
 # Google Summer of Code 2024 with CloudCV
 
+### Check out the full article here:
+[Google Summer of Code 2024 with CloudCV – Medium Post](https://medium.com/@harshitjain0562/google-summer-of-code-2024-with-cloudcv-aeb58538c4ed)
+
 ## Introduction
 I am **Harshit Jain**, an undergraduate student from India. I got accepted for **Google Summer of Code 2024** with **CloudCV** for the project **"Enhanced Exception Handling, Testing, Documentation, and User-Friendliness for EvalAI."**
 
@@ -33,6 +36,7 @@ This GSoC 2024 project aims to **enhance EvalAI's core functionality and user ex
 ---
 
 ## Work
+<img width="1040" height="562" alt="image" src="https://github.com/user-attachments/assets/010340a8-ba92-4046-ae51-ea1668b22245" />
 
 The work done during this period can be broadly divided into four verticals:
 
@@ -51,6 +55,8 @@ Improved the code coverage of the EvalAI codebase. The main apps that significan
 - Jobs Tests (#4404)  
 - Base App Tests (#4403)  
 - Tests for Other Files (#4405)
+<img width="830" height="336" alt="image" src="https://github.com/user-attachments/assets/43bfe445-66ed-47c0-87b8-c2601e0bd710" />
+
 
 #### Angular Code Coverage
 Improved code coverage in Angular. The main files improved:
@@ -58,15 +64,18 @@ Improved code coverage in Angular. The main files improved:
 - Add tests for `ChallengeListCtrl.test.js`
 - Update Profile Controller Tests
 - Auth test coverage checks
+<img width="1040" height="196" alt="image" src="https://github.com/user-attachments/assets/044c0b53-39d0-44ca-ba1a-5bca4eab18af" />
 
 ---
 
 ### 2. Postman Automation Testing
 Developed **automation API test suites** for EvalAI.
+<img width="1040" height="680" alt="image" src="https://github.com/user-attachments/assets/610d08ec-ff0c-4be2-b324-873f6bb46953" />
 
 ---
 
 ### 3. Enhancement in Error Handling
+<img width="830" height="574" alt="image" src="https://github.com/user-attachments/assets/cbd1c1f4-5631-43db-9bb1-3705af8da39c" />
 
 - **Fix #4089:** Add warning for submission deregistration  
 - **Fix #3935:** Warn users when tokens have expired  
@@ -75,24 +84,29 @@ Developed **automation API test suites** for EvalAI.
 - **Fix #4275:** Add Incognito and Cache Warning  
 - **Fix #4229:** Verification of Challenge Phase with Challenge PK  
 - Add error handling for AWS credentials  
-- **Fix #4347:** Flag for submissions (UI & CLI)  
+- **Fix #4347:** Flag for submissions (UI & CLI)
+  <img width="1040" height="438" alt="image" src="https://github.com/user-attachments/assets/3140bff2-8db8-4b4a-a7f0-918da6204d4c" />
+
 - Add dummy tags and domain values  
 
 ---
 
 ### 4. Features Added
 1. **Account Reactivation:** Feature to reactivate deactivated accounts  
-2. **Challenge Tabs:** Added tabs for challenges on the front-end  
+2. **Challenge Tabs:** Added tabs for challenges on the front-end  <img width="1040" height="505" alt="image" src="https://github.com/user-attachments/assets/776b389b-5deb-4b70-9776-c3fe3d338bb0" />
+
 3. **Search Enhancements:** Improved search functionality  
 4. **Fix #4299:** Added logout button for mobile and tablet viewports  
-5. **Docker Submission Fix:** Enabled Docker-based challenge push from CLI  
+5. **Docker Submission Fix:** Enabled Docker-based challenge push from CLI  <img width="932" height="741" alt="image" src="https://github.com/user-attachments/assets/efa652a7-7783-4c84-8bb3-2e41a6c533d1" />
+
 6. **Fix #4352:** Add auto-update scripts for specific submission metrics by PK  
 
 ---
 
 ### Bug Fixes
 1. **Swagger API Fix**  
-2. **Fix #4274:** Add or delete challenge phase/phase splits  
+2. **Fix #4274:** Add or delete challenge phase/phase splits  <img width="1040" height="518" alt="image" src="https://github.com/user-attachments/assets/07442e96-cc1d-44f8-81cc-85a70dc863ea" />
+
 3. Fix modify leaderboard and dataset splits  
 4. **Fix #4294:** Scrollable container fix  
 5. And many more minor bug fixes  
